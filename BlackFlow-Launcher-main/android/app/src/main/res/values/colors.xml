@@ -1,0 +1,8 @@
+<resources>
+    <color name="amoled_black">#000000</color>
+    <color name="surface_dark">#0A0A0A</color>
+    <color name="surface_variant">#141414</color>
+    <color name="outline_white">#FFFFFF</color>
+    <color name="outline_dim">#8E8E93</color>
+    <color name="accent_silver">#E5E5EA</color>
+</resources>

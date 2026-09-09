@@ -1,0 +1,6 @@
+{
+  "name": "BlackFlow Launcher",
+  "description": "A premium customizable AMOLED Black Theme Launcher for Android with monochrome outline icons, custom lock screen, live wallpapers, and visual theme editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

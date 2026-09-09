@@ -1,0 +1,15 @@
+<resources>
+    <style name="Theme.BlackFlowLauncher" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/amoled_black</item>
+        <item name="android:statusBarColor">@color/amoled_black</item>
+        <item name="android:navigationBarColor">@color/amoled_black</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+
+    <style name="Theme.BlackFlowLauncher.NoActionBar" parent="Theme.BlackFlowLauncher">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+    </style>
+</resources>

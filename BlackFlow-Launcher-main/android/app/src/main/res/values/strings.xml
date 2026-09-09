@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BlackFlow Launcher</string>
+    <string name="live_wallpaper_name">BlackFlow AMOLED Live Wallpaper</string>
+    <string name="live_wallpaper_description">Ultra-minimal pure black AMOLED animated live wallpaper engine.</string>
+    <string name="search_hint">Search applications…</string>
+    <string name="set_as_default">Set as Default Launcher</string>
+    <string name="app_drawer">App Drawer</string>
+    <string name="theme_editor">Theme Editor</string>
+    <string name="wallpaper_store">Wallpaper Hub</string>
+    <string name="launcher_settings">Launcher Settings</string>
+</resources>
